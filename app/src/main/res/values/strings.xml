@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Orgs</string>
 
-    <string name="main_activity_title">Salada de frutas</string>
-    <string name="main_activity_product_description">Laranja, manga e uva</string>
-    <string name="main_activity_product_value">19,99</string>
+    <string name="product_name">Salada de frutas</string>
+    <string name="product_description">Laranja, manga e uva</string>
+    <string name="product_value">19.99</string>
 </resources>
