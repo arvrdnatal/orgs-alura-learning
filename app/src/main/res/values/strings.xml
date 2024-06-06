@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Orgs</string>
 
-    <string name="test_string">Cesta de frutas</string>
+    <string name="main_activity_title">Salada de frutas</string>
+    <string name="main_activity_product_description">Laranja, manga e uva</string>
+    <string name="main_activity_product_value">19,99</string>
 </resources>
