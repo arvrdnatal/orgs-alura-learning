@@ -1,5 +1,11 @@
 package com.example.orgs
 
 import android.app.Activity
+import android.os.*
 
-class MainActivity : Activity()
+class MainActivity : Activity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+    }
+}

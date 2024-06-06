@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Orgs</string>
+
+    <string name="test_string">Cesta de frutas</string>
 </resources>
